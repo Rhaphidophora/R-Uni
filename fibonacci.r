@@ -1,3 +1,4 @@
+# rata prvych N cisel fibonacciho postupnosti - ulozi do vektora
 N = 50
 F = c(1, 1)
 for (i in seq(3, N)) {
